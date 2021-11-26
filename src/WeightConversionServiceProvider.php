@@ -2,9 +2,9 @@
 
 namespace Lanash\WeightConversion;
 
+use Lanash\WeightConversion\Commands\WeightConversionCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Lanash\WeightConversion\Commands\WeightConversionCommand;
 
 class WeightConversionServiceProvider extends PackageServiceProvider
 {
