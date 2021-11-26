@@ -1,6 +1,6 @@
 # Weight Conversion in PHP
 
-Notes: This is my 1st attempt in building a php package
+Note: This is my 1st attempt in building a php package
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/lanash/weight-conversion.svg?style=flat-square)](https://packagist.org/packages/lanash/weight-conversion)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/lanash/weight-conversion/run-tests?label=tests)](https://github.com/lanash/weight-conversion/actions?query=workflow%3Arun-tests+branch%3Amain)
