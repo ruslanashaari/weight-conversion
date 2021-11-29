@@ -1,4 +1,5 @@
 <?php
+
 use Lanash\WeightConversion\WeightConversion;
 
 it('can convert kilograms to pound', function () {
