@@ -4,7 +4,7 @@ namespace Lanash\WeightConversion;
 
 class WeightConversion
 {
-    final static function kilograms(float $kilograms): self
+    final public static function kilograms(float $kilograms): self
     {
         return new static($kilograms);
     }
